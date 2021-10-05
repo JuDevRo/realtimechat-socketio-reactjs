@@ -1,3 +1,9 @@
+# Qué es el proyecto?
+En este proyecto desarrolle un chat en tiempo real donde pueden comunicarse varias personas a la vez, utilice web sockets para la comunicación como servidor
+
+# Comandos utilizados
+npx create-react-app / npm i socket.io socket.io-client @testing-library/jest-dom @testing-library/react @testing-library/user-event primeicons primereact react-transition-group web-vitals
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
